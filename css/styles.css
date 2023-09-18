@@ -1,0 +1,73 @@
+
+
+* {
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: greenyellow;
+    text-align: right;
+}
+
+.custom-font {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+
+
+.sixdo-cover {
+    width: 100%;
+}
+
+
+.logo {
+    width: 100px;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    padding: 5%;
+    background-color: white;
+}
+
+.cover {
+    padding: 5px;
+}
+
+.fb-logo {
+    width: 30px;
+}
+
+.ig-logo {
+    width: 30px;
+}
+.spotify-logo {
+    width: 30px;
+}
+
+.tiktok-logo {
+    width: 30px;
+}
+
+.social {
+    display: inline;
+    position: relative;
+    left: 45%;
+}
+
+.banner-tour {
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+.galeria-feid {
+    display: block;
+    width: 100%;
+}
