@@ -4,6 +4,7 @@
     text-decoration: none;
 }
 
+
 .navbar {
     font-family: 'Inter', sans-serif;
     font-weight: 800;
@@ -11,6 +12,18 @@
     background-color: greenyellow;
     text-align: right;
 }
+
+
+.nav-link:hover {
+    background-color: white;
+
+}
+
+.nav-link:active {
+    background-color: white;
+}
+
+
 
 .custom-font {
     font-family: 'Inter', sans-serif;
@@ -101,6 +114,7 @@ h5 {
 .card {
     height: 400px;
     width: 400px;
+    text-align: center;
 }
 
 .card-title {
@@ -117,6 +131,7 @@ h5 {
     font-family: 'Inter', sans-serif;
     font-weight: 200;
 }
+
 
 .cover {
     padding: 5px;
